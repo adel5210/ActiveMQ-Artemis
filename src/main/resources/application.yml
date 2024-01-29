@@ -1,0 +1,10 @@
+server:
+  port: 8099
+spring:
+  artemis:
+    broker-url: tcp://localhost:61616
+    mode: native
+    user: artemis
+    password: artemis
+
+
