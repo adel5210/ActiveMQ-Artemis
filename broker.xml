@@ -1,0 +1,1 @@
+<acceptor name="websocket">tcp://0.0.0.0:61614?protocols=STOMP;useEpoll=false;websocketEnabled=true</acceptor>
